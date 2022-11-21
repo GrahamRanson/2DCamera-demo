@@ -1,0 +1,6 @@
+[submodule "2DCamera"]
+	path = 2DCamera
+	url = https://GrahamRanson@github.com/GrahamRanson/2DCamera.git
+[submodule "2DVehiclePhysics"]
+	path = 2DVehiclePhysics
+	url = https://GrahamRanson@github.com/GrahamRanson/2DVehiclePhysics.git
