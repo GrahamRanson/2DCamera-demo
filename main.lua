@@ -22,7 +22,7 @@ cars[ #cars + 1 ] = Car.new
     y = math.random( 100, display.contentHeight - 100 ),
     rotation = math.random( 360 ),
     isSmoothingDisabled = camera.isSmoothingDisabled(),
-    controls = { go = "up", stop = "down", left = "left", right = "right", reallyStop = "space", zoomIn = "[", zoomOut = "]" }
+    controls = { go = "up", stop = "down", left = "left", right = "right", reallyStop = "space", zoomIn = "x", zoomOut = "c" }
 }
 
 cars[ #cars + 1 ] = Car.new
